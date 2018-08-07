@@ -866,10 +866,10 @@
     - 《算法导论》的第 1048 - 1140 页。
 
 - ### 缓存（Cache）
-    - [ ] LRU 缓存:
-        - [ ] [LRU 的魔力 (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
-        - [ ] [实现 LRU (video)](https://www.youtube.com/watch?v=bq6N7Ym81iI)
-        - [ ] [LeetCode - 146 LRU Cache (C++) (video)](https://www.youtube.com/watch?v=8-FZRAjR7qU)
+    - [x] LRU 缓存:
+        - [x] [LRU 的魔力 (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
+        - [x] [实现 LRU (video)](https://www.youtube.com/watch?v=bq6N7Ym81iI)
+        - [x] [LeetCode - 146 LRU Cache (C++) (video)](https://www.youtube.com/watch?v=8-FZRAjR7qU)
     - [ ] CPU 缓存:
         - [ ] [MIT 6.004 L15: 存储体系 (video)](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
         - [ ] [MIT 6.004 L16: 缓存的问题 (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
@@ -953,7 +953,7 @@
         - [ ] S - [单一职责原则](http://www.oodesign.com/single-responsibility-principle.html) | [每个对象的单一职责](http://www.javacodegeeks.com/2011/11/solid-single-responsibility-principle.html)
             - [更多](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
         - [ ] O - [开闭原则](http://www.oodesign.com/open-close-principle.html)  | [生产环境里的对象应该为扩展做准备而不是为更改](https://en.wikipedia.org/wiki/Open/closed_principle)
-            - [更多](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
+            - [更多](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=eFn)
         - [ ] L - [里氏代换原则](http://www.oodesign.com/liskov-s-substitution-principle.html) | [基类和继承类遵循 ‘IS A’ 原则](http://stackoverflow.com/questions/56860/what-is-the-liskov-substitution-principle)
             - [更多](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
         - [ ] I - [接口隔离原则](http://www.oodesign.com/interface-segregation-principle.html) | 客户端被迫实现用不到的接口
