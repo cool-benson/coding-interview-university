@@ -929,7 +929,7 @@
     - [ ] [该如何为技术面试里设计方面的问题做准备?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
     - [x] [在系统设计面试前必须知道的 8 件事](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
     - [ ] [算法设计](http://www.hiredintech.com/algorithm-design/)
-    - [ ] [数据库范式 - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
+    - [x] [数据库范式 - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
     - [ ] [系统设计面试](https://github.com/checkcheckzz/system-design-interview) - 这一部分有很多的资源，浏览一下我放在下面的文章和例子。
     - [ ] [如何在系统设计面试中脱颖而出](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
     - [ ] [每个人都该知道的一些数字](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
